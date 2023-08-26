@@ -1,8 +1,8 @@
-// Badlon, Maze Clarion L.
+//Activity 2
 #include <iostream>
 #include <string>
 using namespace std;
-// CS2C
+// Badlon, Maze Clarion L. CS2C
 
 int main()
 {
