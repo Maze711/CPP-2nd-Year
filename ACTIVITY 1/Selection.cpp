@@ -1,4 +1,4 @@
-// Activity 1
+// Activity 1 (Selection)
 #include <iostream>
 #include <windows.h>
 using namespace std;

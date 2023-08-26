@@ -1,4 +1,4 @@
-// ACTIVITY 1
+// ACTIVITY 1 (ITERATIVE)
 #include <iostream>
 using namespace std;
 // Badlon, Maze Clarion L. CS2C

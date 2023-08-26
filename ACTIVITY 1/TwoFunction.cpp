@@ -1,5 +1,7 @@
+// Activity 1 (2 Function but I'm using 4)
 #include <iostream>
 using namespace std;
+// Badlon, Maze Clarion L. CS2C
 
 int add(int num1, int num2) {
     return num1 + num2;
